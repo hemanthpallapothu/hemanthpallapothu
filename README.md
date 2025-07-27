@@ -1,9 +1,14 @@
 # 👋 Hey, I'm Hemanth Pallapothu
 
 🚀 **B.Tech CSE (Data Science) | Full Stack Developer | MERN Specialist | DSA in C++ | UI/UX Explorer**  
-📍 Andhra Pradesh, India  
-📧 hemanthpallapothu9@gmail.com | 📞 +91 8499944978  
-[🔗 LinkedIn](https://www.linkedin.com/in/hemanthpallapothu) | [💻 GitHub](https://github.com/hemanthpallapothu)
+
+Andhra Pradesh, India  
+
+hemanthpallapothu9@gmail.com 
+
+[LinkedIn](https://www.linkedin.com/in/hemanthpallapothu) 
+
+[GitHub](https://github.com/hemanthpallapothu)
 
 ---
 
@@ -95,7 +100,7 @@ B.Tech graduate skilled in the **MERN stack** with advanced training from **NxtW
 - [✅ Responsive Web Design using Flexbox](https://certificates.ccbp.in/academy/responsive-web-design-using-flexbox?id=KTUFIEMOVO)  
 - [✅ JavaScript Essentials](https://certificates.ccbp.in/academy/javascript-essentials?id=ZVKTZDOCFJ)  
 - [✅ Node.js](https://certificates.ccbp.in/academy/node-js?id=YXMARIOYAU)  
-- [✅ React.js](#) *(Credential link missing—can be added later)*
+- [✅ React.js](#)
 
 ---
 
